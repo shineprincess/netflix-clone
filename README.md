@@ -1,3 +1,9 @@
+
+- Click link to see NetFlix Clone
+
+
+https://netflix-clone-430aa.firebaseapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
